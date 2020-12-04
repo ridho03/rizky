@@ -1,1 +1,3 @@
 # rizky
+
+server di sewah
