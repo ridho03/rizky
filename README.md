@@ -1,3 +1,0 @@
-# rizky
-
-server di sewah
